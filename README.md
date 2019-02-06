@@ -52,6 +52,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [react-native-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md)
 
+- [react-native-status-bar-height](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-status-bar-height.md)
+
 - [reactotron-react-native](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-react-native.md)
 
 ### Outras Ferramentas
