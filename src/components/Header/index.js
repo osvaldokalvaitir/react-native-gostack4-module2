@@ -9,6 +9,7 @@ import {
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 import styles from './styles';
+import { colors } from '~/styles';
 
 class Header extends Component {
   static propTypes = {
@@ -31,7 +32,7 @@ class Header extends Component {
 
     return (
       <View style={styles.container}>
-        <StatusBar barStyle="dark-content" />
+        <StatusBar barStyle="dark-content" backgroundColor={colors.white} />
         <View style={styles.left} />
         <Text style={styles.title}>{title}</Text>
         <TouchableOpacity onPress={this.signOut}>

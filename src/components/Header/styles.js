@@ -1,4 +1,4 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet, Platform } from 'react-native';
 import { colors, metrics } from '~/styles';
 import { getStatusBarHeight } from 'react-native-status-bar-height';
 
@@ -9,10 +9,17 @@ const styles = StyleSheet.create({
     borderBottomColor: colors.light,
     borderBottomWidth: 1,
     flexDirection: 'row',
-    height: 54 + getStatusBarHeight(),
     justifyContent: 'space-between',
     paddingHorizontal: metrics.basePadding,
-    paddingTop: getStatusBarHeight(),
+    ...Platform.select({
+      ios: {
+        height: 54 + getStatusBarHeight(),
+        paddingTop: getStatusBarHeight(),
+      },
+      android: {
+        height: 54,
+      },
+    }),
   },
 
   icon: {
