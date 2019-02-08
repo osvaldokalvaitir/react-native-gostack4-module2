@@ -1,8 +1,18 @@
 # React Native - Módulo 2
 
-Aplicação usando React Native, ESLint, Prettier, EditorConfig, Babel Root Import, Babel Module Resolver, prop-types, DebugJS e Reactotron.
+Aplicação Githuber usando React Native, ESLint, Prettier, EditorConfig, Babel Root Import, Babel Module Resolver, prop-types, React Navigation, React Native Vector Icons, react-native-status-bar-height e Reactotron.
 
 ## Índice
+
+- [Telas](#telas)
+
+  - [Bem-vindo](#bem-vindo)
+
+  - [Repositórios](#repositórios)
+
+  - [Organizações](#organizações)
+
+- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -15,6 +25,31 @@ Aplicação usando React Native, ESLint, Prettier, EditorConfig, Babel Root Impo
   - [Bibliotecas](#bibliotecas)
 
   - [Outras Ferramentas](#outras-ferramentas)
+
+## Telas
+
+### Bem-vindo
+
+![Welcome](/assets/welcome.png)
+Esta é a tela de boas-vindas, onde deve ser informado um usuário existente do GitHub.
+
+### Repositórios
+
+![Repositories](/assets/repositories.png)
+Nesta tela estão todos os repositórios do GitHub pertencentes ao usuário informado, podendo também ir para a tela de 'Organizações' ou voltar para a tela de boas-vindas.
+
+### Organizações
+
+![Organizations](/assets/organizations.png)
+Nesta tela estão todas as organizações do GitHub pertencentes ao usuário informado, podendo também ir para a tela de 'Repositórios' ou voltar para a tela de boas-vindas.
+
+## Rotas
+
+- Busca um usuário do GitHub
+
+- Busca todos os repositórios de um usuário do GitHub
+
+- Busca todas as organizações de um usuário do GitHub
 
 ## Desenvolvimento
 
