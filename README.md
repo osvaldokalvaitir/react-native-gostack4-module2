@@ -14,15 +14,13 @@ Aplicação Githuber usando React Native, ESLint, Prettier, EditorConfig, Babel 
 
 ## Índice
 
-- [Telas](#telas)
+- [Capturas de Tela](#capturas-de-tela)
 
   - [Bem-vindo](#bem-vindo)
 
   - [Repositórios](#repositórios)
 
   - [Organizações](#organizações)
-
-- [Rotas](#rotas)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -32,11 +30,15 @@ Aplicação Githuber usando React Native, ESLint, Prettier, EditorConfig, Babel 
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
 
-  - [Outras Ferramentas](#outras-ferramentas)
+  - [APIs](#apis)
 
-## Telas
+  - [Ferramentas](#ferramentas)
+
+## Capturas de Tela
 
 ### Bem-vindo
 
@@ -53,14 +55,6 @@ Nesta tela estão todos os repositórios do GitHub pertencentes ao usuário info
 ![Organizations](/assets/organizations.png)
 Nesta tela estão todas as organizações do GitHub pertencentes ao usuário informado, podendo também ir para a tela de 'Repositórios' ou voltar para a tela de boas-vindas.
 
-## Rotas
-
-- Busca um usuário do GitHub
-
-- Busca todos os repositórios de um usuário do GitHub
-
-- Busca todas as organizações de um usuário do GitHub
-
 ## Desenvolvimento
 
 ### Configurações Iniciais
@@ -74,6 +68,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 ### Execução do Projeto
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga a Execução de Projeto.
+
+## Utilizados no Projeto
 
 ### Bibliotecas
 
@@ -103,6 +99,18 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [reactotron-react-native](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/reactotron-react-native.md)
 
-### Outras Ferramentas
+### APIs
+
+- **[GitHub](https://api.github.com)**
+
+  - **Rotas**
+
+    - Usuários
+
+      - Busca dados de um usuário
+      - Busca dados de todos os repositórios de um usuário
+      - Busca dados de todas organizações de um usuário
+
+### Ferramentas
 
 - [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspector/reactotron.md)
