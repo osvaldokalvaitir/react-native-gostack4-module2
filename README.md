@@ -48,26 +48,26 @@ Esta é a tela de boas-vindas, onde deve ser informado um usuário existente do 
 ### Repositórios
 
 ![Repositories](/assets/repositories.png)
-Nesta tela estão todos os repositórios do GitHub pertencentes ao usuário informado, podendo também ir para a tela de 'Organizações' ou voltar para a tela de boas-vindas.
+Nesta tela estão todos os repositórios do GitHub pertencentes ao usuário informado, podendo também ir para a tela de `Organizações` ou voltar para a tela de boas-vindas.
 
 ### Organizações
 
 ![Organizations](/assets/organizations.png)
-Nesta tela estão todas as organizações do GitHub pertencentes ao usuário informado, podendo também ir para a tela de 'Repositórios' ou voltar para a tela de boas-vindas.
+Nesta tela estão todas as organizações do GitHub pertencentes ao usuário informado, podendo também ir para a tela de `Repositórios` ou voltar para a tela de boas-vindas.
 
 ## Desenvolvimento
 
 ### Configurações Iniciais
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga as Configurações Iniciais.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configurações Iniciais`.
 
 ### Instalação do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Instalação de Projeto.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
 
 ### Execução do Projeto
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga a Execução de Projeto.
+Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md) e siga `Execução de Projeto`.
 
 ## Utilizados no Projeto
 
