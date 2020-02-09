@@ -42,17 +42,17 @@ Aplicação Githuber usando React Native, ESLint, Prettier, EditorConfig, Babel 
 
 ### Bem-vindo
 
-![Welcome](/assets/welcome.png)
+![Welcome](/.github/assets/welcome.png)
 Esta é a tela de boas-vindas, onde deve ser informado um usuário existente do GitHub.
 
 ### Repositórios
 
-![Repositories](/assets/repositories.png)
+![Repositories](/.github/assets/repositories.png)
 Nesta tela estão todos os repositórios do GitHub pertencentes ao usuário informado, podendo também ir para a tela de `Organizações` ou voltar para a tela de boas-vindas.
 
 ### Organizações
 
-![Organizations](/assets/organizations.png)
+![Organizations](/.github/assets/organizations.png)
 Nesta tela estão todas as organizações do GitHub pertencentes ao usuário informado, podendo também ir para a tela de `Repositórios` ou voltar para a tela de boas-vindas.
 
 ## Desenvolvimento
